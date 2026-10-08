@@ -53,9 +53,9 @@ Welcome to the ultimate curated directory of **Infrastructure as Code (IaC) Fram
 
 Below is a curated collection of open-source IaC frameworks, provisioning tools, and orchestration utilities.
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
-| Repository | GitHub Stars | License | Description & Primary Use Case |
+| Repository | GitHub_Stars | License | Description & Primary Use Case |
 | :--- | :--- | :--- | :--- |
 | **[Terraform](https://github.com/hashicorp/terraform)** | [<img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social&color=white" alt="HashiCorp Terraform Stars"/>](https://github.com/hashicorp/terraform/stargazers) | BUSL-1.1 | **The de facto IaC standard** using HCL configuration syntax to provision cloud infrastructure across AWS, Azure, GCP, and 3,000+ providers. |
 | **[Serverless Framework](https://github.com/serverless/serverless)** | [<img src="https://img.shields.io/github/stars/serverless/serverless?style=social&color=white" alt="Serverless Framework Stars"/>](https://github.com/serverless/serverless/stargazers) | MIT | **Pioneer serverless IaC framework** to build and deploy auto-scaling serverless applications on AWS Lambda, Azure Functions, and Google Cloud. |
@@ -84,7 +84,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or update** entries in `README.md` maintaining the existing table layouts and badge formats.
-3. 🔎 **Verify** all facts, star badges, and links to official documentation or GitHub repositories.
+3. 🔎 **Verify** all facts, Stars_Badges, and links to official documentation or GitHub repositories.
 4. 🚀 **Open a Pull Request** with a clear title and concise summary of your changes.
 
 ---
