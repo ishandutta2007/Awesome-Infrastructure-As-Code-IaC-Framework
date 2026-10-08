@@ -40,37 +40,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
-
-
-
-- **[Terraform Cloud](https://www.terraform.io/cloud)**  
-
-  **HashiCorp's managed IaC platform** — remote state, collaboration, policy enforcement, and CI/CD integration . **The most widely used commercial IaC platform** . **Best for enterprise Terraform governance** .
-
-
-
-- **[Pulumi Cloud](https://www.pulumi.com/)**  
-
-  **Managed IaC with real programming languages** — TypeScript, Python, Go, .NET, Java . **Best for developer-centric IaC** .
-
-
-
-- **[Spacelift](https://spacelift.io/)**  
-
-  **IaC orchestration platform** — Terraform, OpenTofu, Pulumi, CloudFormation, and Kubernetes . **Best for complex multi-IaC workflows** .
-
-
-
-- **[env0](https://www.env0.com/)**  
-
-  **IaC automation platform** — self-service environments with guardrails . **Best for developer self-service** .
-
-
-
-- **[Scalr](https://scalr.com/)**  
-
-  **Terraform automation and collaboration** — policy enforcement and cost management . **Best for enterprise Terraform governance** .
+| Product | Description & Key Strengths | Starting Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[Terraform Cloud](https://www.terraform.io/cloud)** | HashiCorp's managed IaC platform featuring remote state, collaboration, policy enforcement, and CI/CD integration. Best for enterprise Terraform governance. | **Essentials:** $0.10 per managed resource / month (pay-as-you-go) | **Free forever:** Up to 500 managed resources, unlimited users, 1 concurrent run. Includes $500 initial HCP credit. |
+| **[Pulumi Cloud](https://www.pulumi.com/)** | Managed IaC platform supporting real programming languages (TypeScript, Python, Go, .NET, Java). Best for developer-centric IaC. | **Team:** $0.0005 per credit (~$0.37/resource/month) | **Free edition (Individual):** 1 user, unlimited resources/stacks. **Team Edition:** 150,000 free credits/mo (~200 managed resources for up to 10 users). |
+| **[Spacelift](https://spacelift.io/)** | IaC orchestration platform supporting Terraform, OpenTofu, Pulumi, CloudFormation, and Kubernetes. Best for complex multi-IaC workflows. | **Starter+:** $20,000 / year | **Free tier:** Up to 2 users, 1 public worker (concurrency), unlimited runs. 14-day free trial for full feature evaluation (no credit card required). |
+| **[env0](https://www.env0.com/)** | IaC automation platform featuring self-service environments with guardrails and AI capabilities. Best for developer self-service. | **Cloud Navigator (Paid):** Quote-based (~$1,500/mo flat starting rate for enterprise plans) | **Free forever:** Up to 250 runs/mo, 30 active environments, 1 deployment concurrency, unlimited users and self-hosted agents. |
+| **[Scalr](https://scalr.com/)** | Terraform & OpenTofu automation platform featuring policy enforcement, organizational hierarchy, and cost management. Best for enterprise governance. | **Pro / Usage-based:** $99/month (includes base runs; additional runs at $0.99/run) | **Free forever:** Up to 50 runs/month, unlimited users, workspaces, and managed resources, 5 default concurrent runs. |
 
 
 
